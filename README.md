@@ -1,6 +1,6 @@
 # UCIdataset
 
-please note that the numbers are line numbers in the 'run_analysis.R' file.
+Following is the line-by-line explanation of the scripts.  please note that the numbers are line numbers in the 'run_analysis.R' file.
 
 1: This script requires dplyr to run.
 3: Read the activity names.
