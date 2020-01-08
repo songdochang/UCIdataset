@@ -1,4 +1,4 @@
-#library(dplyr)
+library(dplyr)
 
 activities <- read.table("./activity_labels.txt")
 
