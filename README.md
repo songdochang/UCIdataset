@@ -2,7 +2,7 @@
 
 please note that the numbers are line numbers in the 'run_analysis.R' file.
 
-1: This script requires dplyr to run.  It may necessary to uncomment depending on your environment.
+1: This script requires dplyr to run.
 3: Read the activity names.
 5-6: Read X_train and y_train files,
 7: Merge to include activity names.
